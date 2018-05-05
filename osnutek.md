@@ -11,9 +11,14 @@ podatke o kraju registracije, podatke o vozilu (znamka, model, gorivo) in ostale
 
 Med projektno nalogo bom poskušal odgovoriti na naslednja vprašanja:
 
-- Kako se spreminja uvoz vozil skozi leta (ali pada ali se povečuje) in skušal napovedati, kako se bo to nadaljevalo v prihodnjosti.
-- Katera so najbolj priljubljena vozila, ki jih slovenci kupujem (po letih, kot tudi nasplošno).
-- Kako se spreminja kupovanje vozil glede na njihovo gorivo po letih oz. vozila s katerim gorivom so za določeno leto bila bolj
-kupovana.
-- Katere vrste vozil slovenci najraje kupujemo (naprimer: limuzina, karavan, hatchback, itd...).
-- Poskušal bom odkriti vzorce oziroma trende v kupovanju vozil v Sloveniji.
+- Ali je res več na novo kupljenih vozil, kot uvoženih. (Pričakujem, da je več na novo kupljenih vozil) Tukaj bom preveril, če hipoteza,
+da je več na novo kupljenih vozil, drži.
+- Prikaz katera so vozila, ki so najbolj kupovana po znamkah.
+- V sedanjih 'sodobnih' časih se pričakuje, da se bo število avtomobilov, ki so na novo kupljena na električni pogon povečevalo po letih.
+Oziroma bom tukaj preveril, če hipoteza, da se število vozil z električnim pogonom z leti povečuje, drži.
+- V letih po letu 2010 je porastlo število 'hot hatch' avtomobilov oziroma hatchback avtomobilov, ki imajo več kot 200 konjskih moči.
+Ker je to nekakšna zanimivost na avtomobilskem področju bom preveril, da hipoteza, ki pravi, da se število nakupov takih avtomobilov 
+povečuje z leti, drži.
+- Po aferi volkswagen se pričakuje, da bo nakup volkswagen vozil upadel. Tukaj bom preveril, če ta hipoteza drži.
+- Prav tako kot pri prejšnji točki bom preverjal če hipoteza, če je nakup ostalih vozil, ki so v lasti podjetja volkswagen
+(kot so porsche, škoda, audi, seat) tudi upadel,  tudi drži.

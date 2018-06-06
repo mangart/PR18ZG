@@ -20,5 +20,7 @@ Oziroma bom tukaj preveril, če hipoteza, da se število vozil z električnim po
 Ker je to nekakšna zanimivost na avtomobilskem področju bom preveril, da hipoteza, ki pravi, da se število nakupov takih avtomobilov 
 povečuje z leti, drži.
 - Po aferi volkswagen se pričakuje, da bo nakup volkswagen vozil upadel. Tukaj bom preveril, če ta hipoteza drži.
-- Prav tako kot pri prejšnji točki bom preverjal če hipoteza, če je nakup ostalih vozil, ki so v lasti podjetja volkswagen
-(kot so porsche, škoda, audi, seat) tudi upadel,  tudi drži.
+- Preverjal bom, če se povprečna poraba goriva po letih zmanjšuje. To bom preveril za bencinjska vozila in dizelska vozila posebaj.
+- Enako kot pri prejšnji točki bom enako preveril tudi za CO2.
+- Preveril bom kako se spreminja prodaja/registracija vozil v krajevnih enotah (to so tiste, ki imajo svojo oznako na registerski tablici)
+spreminja.
